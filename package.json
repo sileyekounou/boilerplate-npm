@@ -6,7 +6,8 @@
   },
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "vercel-build": "npm build"
   },
   "repository": {
     "type": "git",
